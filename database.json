@@ -1,5 +1,5 @@
 {
-    "database": "test",
-    "user": "postgres",
-    "password": "YuhengGokul"
+    "database": "<insert database name>",
+    "user": "<insert username>",
+    "password": "<insert password>"
 }
